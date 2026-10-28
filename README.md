@@ -1,4 +1,4 @@
-# Hi, I'm Kgatliso 👋
+# Hi, I'm Kgatliso 
 Advanced Diploma in Applications Development graduate looking for juniour/graduate Java backend roles.
 
 **Currently learning/building:** Java 21, Spring Boot, PostgreSQL, Docker
